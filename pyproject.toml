@@ -30,6 +30,7 @@ dependencies = [
     "psutil>=7.0.0",
     "pypdf>=5.4.0",
     "pypdf2>=3.0.1",
+    "pytest>=9.0.2",
     "python-dotenv>=1.0.1",
     "requests>=2.32.3",
     "semantic-kernel>=1.25.0",
